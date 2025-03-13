@@ -1,3 +1,7 @@
+// Student: Sage Johnson
+// CS 3013
+// Dr. Evans
+
 package example.getpassengers
 
 import android.content.Intent
